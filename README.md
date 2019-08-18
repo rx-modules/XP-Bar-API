@@ -63,10 +63,10 @@ Please look at the xp\_examples datapack for more specific usage of the datapack
 
 Some extra videos of things you can do:
 
-[https://streamable.com/v3gk5](Bow Quiver)
+[Bow Quiver](https://streamable.com/v3gk5)
 
-[https://streamable.com/1hjnv](Zombie Health)
+[Zombie Health](https://streamable.com/1hjnv)
 
-[https://streamable.com/f829f](Elytra Durability)
+[Elytra Durability](https://streamable.com/f829f)
 
 Enjoy!
