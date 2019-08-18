@@ -1,4 +1,4 @@
-# === XP API - Completely renovated and updated for 1.14 ===
+# XP API - Completely renovated and updated for 1.14
 
 This datapack is an API that allows you to customize the xp bar however you like. It's very easy to set a percentage of the bar and control it through various methods. Also, this might work for 1.13.
 
