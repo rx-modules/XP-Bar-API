@@ -1,4 +1,4 @@
-# By: Shraavan97
+# By: rx97
 # 06 28 19
 
 execute if score @s xp.temp matches 1 run scoreboard players operation $levels xp.temp = $current xp.temp

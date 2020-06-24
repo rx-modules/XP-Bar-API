@@ -1,4 +1,4 @@
-# By: Shraavan97
+# By: rx97
 # 07 04 19
 
 execute if score $example xp.example matches 1 as @a at @s run function xp_examples:bow

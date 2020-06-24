@@ -1,4 +1,4 @@
-# By: Shraavan97
+# By: rx97
 # 07 4 19
 
 function xp:z_internal/store_info

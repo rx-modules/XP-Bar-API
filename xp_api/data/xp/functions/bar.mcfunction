@@ -1,4 +1,4 @@
-# By: Shraavan97
+# By: rx97
 # 07 17 19
 
 scoreboard players set @s xp.temp 0

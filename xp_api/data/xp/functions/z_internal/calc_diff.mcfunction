@@ -1,4 +1,4 @@
-# By: Shraavan97
+# By: rx97
 # 06 28 19
 
 execute unless score @s xp.temp matches 2 run scoreboard players operation $in xp.temp = $points xp.temp
